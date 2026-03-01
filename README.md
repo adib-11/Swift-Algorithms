@@ -13,8 +13,6 @@ Rather than focusing on competitive programming, this repo is tailored toward in
 
 | Problem Name | Pattern / Topic | Difficulty | Notes / Key Swift Concept |
 | :--- | :--- | :--- | :--- |
-| *(Example) Two Sum* | Arrays & Hashing | Easy | Used Swift `Dictionary` to store complements. |
-| *(Example) Valid Palindrome* | Two Pointers | Easy | String manipulation and index traversal. |
-| | | | |
+| Contains Duplicate | Arrays & Hashing | Easy | Used `Set<Int>` to track seen elements for O(n) time. |
 
 *(Table will be updated daily as part of my 45-minute logic-building routine).*
