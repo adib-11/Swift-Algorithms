@@ -14,5 +14,6 @@ Rather than focusing on competitive programming, this repo is tailored toward in
 | Problem Name | Pattern / Topic | Difficulty | Notes / Key Swift Concept |
 | :--- | :--- | :--- | :--- |
 | Contains Duplicate | Arrays & Hashing | Easy | Used `Set<Int>` to track seen elements for O(n) time. |
+| Valid Anagram | Arrays & Hashing | Easy | Used `[Character: Int]` dictionary; incremented for `s`, decremented for `t`. |
 
 *(Table will be updated daily as part of my 45-minute logic-building routine).*
