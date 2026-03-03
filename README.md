@@ -15,5 +15,6 @@ Rather than focusing on competitive programming, this repo is tailored toward in
 | :--- | :--- | :--- | :--- |
 | Contains Duplicate | Arrays & Hashing | Easy | Used `Set<Int>` to track seen elements for O(n) time. |
 | Valid Anagram | Arrays & Hashing | Easy | Used `[Character: Int]` dictionary; incremented for `s`, decremented for `t`. |
+| Two Sum | Arrays & Hashing | Easy | Used `[Int: Int]` dictionary to store value→index; found complement in O(1). |
 
 *(Table will be updated daily as part of my 45-minute logic-building routine).*
