@@ -17,5 +17,6 @@ Rather than focusing on competitive programming, this repo is tailored toward in
 | Valid Anagram | Arrays & Hashing | Easy | Used `[Character: Int]` dictionary; incremented for `s`, decremented for `t`. |
 | Two Sum | Arrays & Hashing | Easy | Used `[Int: Int]` dictionary to store value→index; found complement in O(1). |
 | Valid Palindrome | Two Pointers | Easy | Filtered non-alphanumeric chars, then used two pointers from both ends to compare. |
+| Best Time to Buy and Sell Stock | Sliding Window | Easy | Tracked running minimum price and max profit in a single O(n) pass. |
 
 *(Table will be updated daily as part of my 45-minute logic-building routine).*
